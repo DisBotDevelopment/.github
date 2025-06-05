@@ -23,14 +23,14 @@ It is built with TypeScript and is designed to be modular, allowing for easy cus
 
 ## Placeholders
 
-- Take a look at the [Placeholders](https://docs.disbot.xyz/docs/placeholders) page to see all available placeholders.
+- Take a look at the [Placeholders](https://docs.disbot.app/docs/placeholders) page to see all available placeholders.
 - Placeholders are used to replace certain values in messages, such as user IDs, usernames, and server names.
 
 ## API Reference
 
-- Take a look at the [API Reference](https://docs.disbot.xyz/docs/api) page to see all available API methods and events.
+- Take a look at the [API Reference](https://docs.disbot.app/docs/api) page to see all available API methods and events.
 - Events API is used to listen to events in your server, such as member joins, leaves, and bans.
 
 ## Contact Us
 
-- For Contact use our Form at https://nexocrew.com/contact or join our [Discord Server](https://disbot.xyz/discord) for support and feedback.
+- For Contact join our [Discord Server](https://disbot.xyz/discord) for support and feedback.
